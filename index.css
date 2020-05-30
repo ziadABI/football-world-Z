@@ -1,0 +1,36 @@
+html{   
+	width: 100%;
+    height: 100%;
+} 
+
+h1{
+	color: black;
+	font-family: "Times old roman";
+	font-size: 300%
+}
+hr{
+	max-width: 70px;
+	border: 2px solid;
+    border-radius: 5px;
+    border-color: #28a745;
+}
+body{
+	background: url(https://image.freepik.com/vecteurs-libre/stade-sportif-illustration-buts-football_53562-5609.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+ 
+
+}
+
+}
+.btn-success{
+	padding: 10px 80px;
+}
+.btn{
+	text-transform: uppercase;
+}
+.space{
+	height: 13em
+
